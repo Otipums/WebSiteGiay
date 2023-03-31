@@ -13,5 +13,26 @@ namespace Test.Controllers
         {
             return View();
         }
+        public ActionResult Index()
+        {
+            return View();
+        }
+        public ActionResult Index()
+        {
+            return View();
+        }
+        public ActionResult Index()
+        {
+            return View();
+        }
+        public ActionResult Index()
+        {
+            return View();
+        }
+        public ActionResult Index()
+        {
+            return View();
+        }
+
     }
 }
